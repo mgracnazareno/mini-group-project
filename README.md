@@ -11,7 +11,8 @@ No server or installation required.
 1. Download or clone the project
 2. Open index.html in any browser
 
-# Contributors
+## Contributors
 
 - Mary Grace Nazareno
 - Rama Chaker
+- https://github.com/mgracnazareno/mini-group-project
