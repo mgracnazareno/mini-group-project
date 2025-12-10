@@ -7,10 +7,10 @@ document.addEventListener("DOMContentLoaded", function () {
 
   change.addEventListener("click", function () {
     const options = [
-      "Have a great day! 🌤️",
-      "This UI is built with plain HTML, CSS and JavaScript.",
-      "You can open this file in a browser to view the static site.",
-      "Hello — thanks for trying the static UI!",
+      "Keep going - you're doing better than you think ✨",
+      "Take it one step at a time — you’ll get there 🌟",
+      "Stay focused — small progress is still progress 🎯",
+      "You’re on the right path — trust your journey 🌿",
     ];
     const next = options[Math.floor(Math.random() * options.length)];
     msg.textContent = next;
